@@ -8,7 +8,7 @@
    4. Exit<br>
    Handle overflow and underflow conditions.</p>
 <h3>Output : </h3>
-<h5>Push Operation</h5>
+<h4>Push Operation</h4>
 <p>Case-1 : Push Operation</p>
 
 ![Push Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-1/push-operation.png?raw=true)
@@ -17,7 +17,7 @@
 
 ![Push Operation Overflow](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-1/push-overflow.png?raw=true)
 
-<h5>Pop Operation</h5>
+<h4>Pop Operation</h4>
 <p>Case-1 : Pop Operation Underflow</p>
 
 ![Pop Operation Underflow](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-1/pop-underflow.png?raw=true)
@@ -26,7 +26,7 @@
 
 ![Pop Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-1/pop-operation.png?raw=true)
 
-<h5>Display Operation</h5>
+<h4>Display Operation</h4>
 <p>Case-1 : Display Operation Underflow</p>
 
 ![Display Operation Underflow](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-1/display-underflow.png?raw=true)
@@ -35,11 +35,11 @@
 
 ![Display Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-1/display-operation.png?raw=true)
 
-<h5>Default Case</h5>
+<h4>Default Case</h4>
 
 ![Default Case](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-1/default-case.png?raw=true)
 
-<h5>Exit Case</h5>
+<h4>Exit Case</h4>
 
 ![Exit Case](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-1/exit-case.png?raw=true)
 
@@ -49,7 +49,7 @@
     2. Delete node from beginning<br>
     3. Display the list</p>
 <h3>Output : </h3>
-<h5>Insert Node</h5>
+<h4>Insert Node</h4>
 <p>Case-1 : Insert node at Beginning</p>
 
 ![Insert node at Beginning](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/insert-beginning.png?raw=true)
@@ -66,7 +66,7 @@
 
 ![Insert Exit Case](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/insert-exit-case.png?raw=true)
 
-<h5>Delete node from beginning</h5>
+<h4>Delete node from beginning</h4>
 <p>Case-1 : Empty Linked List/p>
 
 ![Empty Linked List](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/delete-empty.png?raw=true)
@@ -75,7 +75,7 @@
 
 ![Delete Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/delete-operation.png?raw=true)
 
-<h5>Display Operation</h5>
+<h4>Display Operation</h4>
 <p>Case-1 : Empty Linked List/p>
 
 ![Empty Linked List](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/display-empty.png?raw=true)
@@ -84,11 +84,11 @@
 
 ![Display Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/display-operation.png?raw=true)
 
-<h5>Default Case</h5>
+<h4>Default Case</h4>
 
 ![Default Case](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/default-case.png?raw=true)
 
-<h5>Exit Case</h5>
+<h4>Exit Case</h4>
 
 ![Exit Case](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/exit-case.png?raw=true)
 
@@ -100,7 +100,7 @@
     4. Exit<br>
     Handle overflow and underflow conditions.</p>
 <h3>Output : </h3>
-<h5>Enqueue Operation</h5>
+<h4>Enqueue Operation</h4>
 <p>Case-1 : Enqueue Operation</p>
 
 ![Enqueue Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-3/enqueue-operation.png?raw=true)
@@ -109,7 +109,7 @@
 
 ![Enqueue Operation Overflow](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-3/enqueue-overflow.png?raw=true)
 
-<h5>Dequeue Operation</h5>
+<h4>Dequeue Operation</h4>
 <p>Case-1 : Dequeue Operation Underflow</p>
 
 ![Dequeue Operation Underflow](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-3/dequeue-underflow.png?raw=true)
@@ -118,7 +118,7 @@
 
 ![Dequeue Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-3/dequeue-operation.png?raw=true)
 
-<h5>Display Operation</h5>
+<h4>Display Operation</h4>
 <p>Case-1 : Display Operation Underflow</p>
 
 ![Display Operation Underflow](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-3/display-underflow.png?raw=true)
@@ -127,17 +127,17 @@
 
 ![Display Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-3/display-operation.png?raw=true)
 
-<h5>Default Case</h5>
+<h4>Default Case</h4>
 
 ![Default Case](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-3/default-case.png?raw=true)
 
-<h5>Exit Case</h5>
+<h4>Exit Case</h4>
 
 ![Exit Case](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-3/exit-case.png?raw=true)
 
 <h3>Task-4 : Sorting Algorithm</h3>
 <p>Write a C++ program to Accept n elements from user. Sort using Quick Sort. Display sorted array.Mention time complexity in comments.</p>
-<h4>Time Complexity of Quick Sort/h4>
+<h4>Time Complexity of Quick Sort</h4>
 <p>Best Case: O(n log n)<br>Average Case: O(n log n)<br>Worst Case: O(n²)</p>
 <h4>Space Complexity of Quick Sort</h4>
 <p>Auxiliary Space: O(log n) (average) Due to recursion stack<br>Worst Case Space: O(n)</p>
@@ -152,7 +152,7 @@
     &nbsp;Display position of element if found<br>
     &nbsp;Display number of comparisons made</p>
 <h3>Output : </h3>
-<h5>Search Operation</h5>
+<h4>Search Operation</h4>
 <p>Case-1 : Search Found</p>
 
 ![Search Found](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-5/search-found.png?raw=true)
