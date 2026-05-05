@@ -137,9 +137,9 @@
 
 <h3>Task-4 : Sorting Algorithm</h3>
 <p>Write a C++ program to Accept n elements from user. Sort using Quick Sort. Display sorted array.Mention time complexity in comments.</p>
-<h3>Time Complexity of Quick Sort/h3>
+<h4>Time Complexity of Quick Sort/h4>
 <p>Best Case: O(n log n)<br>Average Case: O(n log n)<br>Worst Case: O(n²)</p>
-<h3>Space Complexity of Quick Sort/h3>
+<h4>Space Complexity of Quick Sort</h4>
 <p>Auxiliary Space: O(log n) (average) Due to recursion stack<br>Worst Case Space: O(n)</p>
 <h3>Output : </h3>
 
