@@ -67,7 +67,7 @@
 ![Insert Exit Case](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/insert-exit-case.png?raw=true)
 
 <h4>Delete node from beginning</h4>
-<p>Case-1 : Empty Linked List/p>
+<p>Case-1 : Empty Linked List</p>
 
 ![Empty Linked List](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/delete-empty.png?raw=true)
 
@@ -76,7 +76,7 @@
 ![Delete Operation](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/delete-operation.png?raw=true)
 
 <h4>Display Operation</h4>
-<p>Case-1 : Empty Linked List/p>
+<p>Case-1 : Empty Linked List</p>
 
 ![Empty Linked List](https://github.com/sakinasendhi52/DSA-Project/blob/main/Task-2/display-empty.png?raw=true)
 
