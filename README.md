@@ -147,10 +147,10 @@
 
 <h3>Task-5 : Searching Algorithm</h3>
 <p>Write a C++ program to :<br>
-    &nbsp;Accept n elements from user<br>
-    &nbsp;Perform Linear Search<br>
-    &nbsp;Display position of element if found<br>
-    &nbsp;Display number of comparisons made</p>
+    &nbsp;&nbsp;&nbsp;Accept n elements from user<br>
+    &nbsp;&nbsp;&nbsp;Perform Linear Search<br>
+    &nbsp;&nbsp;&nbsp;Display position of element if found<br>
+    &nbsp;&nbsp;&nbsp;Display number of comparisons made</p>
 <h3>Output : </h3>
 <h4>Search Operation</h4>
 <p>Case-1 : Search Found</p>
